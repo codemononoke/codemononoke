@@ -58,4 +58,4 @@
 
 
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=Priyanshup891&theme=react-dark)
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshup891&theme=react-dark)
