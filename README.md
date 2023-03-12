@@ -58,8 +58,8 @@
 [![@priyanshu891's Holopin board](https://holopin.io/api/user/board?user=priyanshu891)](https://holopin.io/@priyanshu891)
 
 <div align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&title_color=00ff99&icon_color=00ff33&text_color=ebebed&bg_color=000&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshup891&stroke=ffffff&background=000000&ring=00ff77&fire=00ff11&currStreakNum=ffffff&currStreakLabel=00ff44&sideNums=00ff77&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&title_color=00ff99&icon_color=00ff33&text_color=ebebed&bg_color=000&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshup891&stroke=ffffff&background=000000&ring=00ff77&fire=00ff11&currStreakNum=ffffff&currStreakLabel=00ff44&sideNums=00ff77&sideLabels=ffffff&dates=ffffff&hide_border=true" height="170"/>
 </div>
 
 <br>
