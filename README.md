@@ -3,7 +3,7 @@
 - 🤓 Self taught Developer 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
-- 🎯 2022 Goals: Contribute more to open source projects
+- 🎯 2023 Goals: Contribute more to open source projects
 - ⚡ Fun fact: Anime Lover 🐱‍👤
 
 <h3 align="left">Connect with me:</h3>
@@ -52,10 +52,9 @@
 
 [![@priyanshu891's Holopin board](https://holopin.io/api/user/board?user=priyanshu891)](https://holopin.io/@priyanshu891)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshup891&theme=react" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&title_color=00ff99&icon_color=00ff33&text_color=ebebed&bg_color=000&hide_border=true" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshup891&stroke=ffffff&background=000000&ring=00ff77&fire=00ff11&currStreakNum=ffffff&currStreakLabel=00ff44&sideNums=00ff77&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 <br>
 
 
-
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshup891&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshup891&bg_color=000000&color=ffffff&line=00ff55&point=383838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
