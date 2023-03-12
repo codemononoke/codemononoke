@@ -32,7 +32,7 @@
 </div>
 
 ###
-<img src="https://media.giphy.com/media/1195W96ZIyUra8/giphy.gif" align="right" height="300"/>
+<img src="https://media.giphy.com/media/1195W96ZIyUra8/giphy.gif" align="right" height="250"/>
 
 <h3 align="left">Languages :</h3>
 <div align="left">
@@ -58,8 +58,8 @@
 [![@priyanshu891's Holopin board](https://holopin.io/api/user/board?user=priyanshu891)](https://holopin.io/@priyanshu891)
 
 <div align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&title_color=00ff99&icon_color=00ff33&text_color=ebebed&bg_color=000&hide_border=true" height="200"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshup891&stroke=ffffff&background=000000&ring=00ff77&fire=00ff11&currStreakNum=ffffff&currStreakLabel=00ff44&sideNums=00ff77&sideLabels=ffffff&dates=ffffff&hide_border=true" height="200"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&title_color=00ff99&icon_color=00ff33&text_color=ebebed&bg_color=000&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshup891&stroke=ffffff&background=000000&ring=00ff77&fire=00ff11&currStreakNum=ffffff&currStreakLabel=00ff44&sideNums=00ff77&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180"/>
 </div>
 
 <br>
