@@ -31,6 +31,9 @@
 <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
 </div>
 
+###
+<img src="https://media.giphy.com/media/1195W96ZIyUra8/giphy.gif" align="right" height="300"/>
+
 <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -50,14 +53,17 @@
 </div>
 <br/>
 
+###
+
 [![@priyanshu891's Holopin board](https://holopin.io/api/user/board?user=priyanshu891)](https://holopin.io/@priyanshu891)
 
-<div display="flex" width="100%" align="center" justify-content="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&title_color=00ff99&icon_color=00ff33&text_color=ebebed&bg_color=000&hide_border=true" width="450px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshup891&stroke=ffffff&background=000000&ring=00ff77&fire=00ff11&currStreakNum=ffffff&currStreakLabel=00ff44&sideNums=00ff77&sideLabels=ffffff&dates=ffffff&hide_border=true"  width="475px" />
+<div align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&title_color=00ff99&icon_color=00ff33&text_color=ebebed&bg_color=000&hide_border=true" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshup891&stroke=ffffff&background=000000&ring=00ff77&fire=00ff11&currStreakNum=ffffff&currStreakLabel=00ff44&sideNums=00ff77&sideLabels=ffffff&dates=ffffff&hide_border=true" height="200"/>
 </div>
 
 <br>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshup891&bg_color=000000&color=ffffff&line=00ff55&point=383838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
