@@ -3,7 +3,7 @@
 - 🤓 Self taught Developer 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
-- 🎯 2023 Goals: Contribute more to open source projects
+- 🎯 2024 Goals: Contribute more to open source projects
 - ⚡ Fun fact: Anime Lover 🐱‍👤
 
 <h3 align="left">Connect with me:</h3>
