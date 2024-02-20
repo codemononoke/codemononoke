@@ -31,5 +31,9 @@ I'm a 21-year-old developer based in India, and I'm passionate about full stack 
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/web_prem07) or [LinkedIn](linkedin.com/in/priyanshupatil). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/web_prem07) or [LinkedIn](linkedin.com/in/priyanshupatil).
+
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Priyanshup891&theme=github-dark-blue)](https://git.io/streak-stats)
+ 
  
