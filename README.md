@@ -33,7 +33,7 @@ I'm a 21-year-old developer based in India, and I'm passionate about full stack 
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/web_prem07) or [LinkedIn](linkedin.com/in/priyanshupatil).
+ For a quick response, DM me on [Instagram](https://www.instagram.com/codemononoke) or [LinkedIn](linkedin.com/in/priyanshupatil).
 
 <div style="display: flex; justify-content: center; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&theme=github_dark" style="width:400px;" />
