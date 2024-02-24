@@ -36,8 +36,8 @@ I'm a 21-year-old developer based in India, and I'm passionate about full stack 
  For a quick response, DM me on [Instagram](https://www.instagram.com/codemononoke) or [LinkedIn](linkedin.com/in/priyanshupatil).
 
 <div style="display: flex; justify-content: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Priyanshup891&show_icons=true&theme=github_dark" style="width:400px;" />
-    <img src="https://streak-stats.demolab.com/?user=Priyanshup891&theme=github-dark-blue" style="width:420px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=codemononoke&show_icons=true&theme=github_dark" style="width:400px;" />
+    <img src="https://streak-stats.demolab.com/?user=codemononoke&theme=github-dark-blue" style="width:420px" />
 </div>
 
 
