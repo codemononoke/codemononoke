@@ -8,7 +8,7 @@ I'm a 21-year-old developer based in India, and I'm passionate about full stack 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 😂
 - 🎯 2024 Goals: Contribute more to open source projects
-- 👀 Check out my [website](https://portfolio-mdtz.onrender.com/) to learn more about me.
+- 👀 Check out my [website](https://codemononoke-portfolio.vercel.app/) to learn more about me.
  
 ## 📦 Toolbox
 
