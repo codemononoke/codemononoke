@@ -1,28 +1,42 @@
-![SimilarwebDataGIF](https://media.licdn.com/dms/image/v2/D4D16AQHgovXFAD0ysQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727353962997?e=1737590400&v=beta&t=Bn16fp-ejdhOx568Z7Ix_RR1TV8TFYKLMvHKysjwhDQ)
-# Hi there! 👋 I'm Priyanshu Patil
 
-I'm a Data Analyst passionate about extracting insights from data to drive informed decisions. With a foundation in Python, SQL, and data visualization, I’m also building my skills in web development to enhance data-driven web applications.
+<img alt="Github Image" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/112326228528827.685439ace03f1.jpg" />
+
+# 👋 Hi, I'm Priyanshu Patil
+
+💻 Passionate Full Stack Developer | 👨‍💻 Backend & Frontend Explorer  
+🌌 Anime Lover (Yes, I’ve probably cried over anime scenes more than real life ones)
 
 ---
 
-### 🔍 About Me
-- 🎓 Recent graduate in BTech in Computer Science
-- 📊 Data Analytics Skills: Python, SQL, Power BI, Advance Excel
-- 🌐 Additional Skills: HTML, CSS, JavaScript, ReactJs, NextJs, NodeJs, ExpressJs, MonogoDB
+## 🛠 Tech Stack
+- **Languages:** Java, JavaScript, TypeScript, HTML5, CSS3
+- **Frontend:** ReactJS, NextJS, TailwindCSS, Styled-Components, Material-UI, Framer Motion
+- **Backend:** NodeJS, ExpressJS, REST API, GraphQL, MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, Postman, Docker, Jest, VS Code, Figma
 
-### 🛠️ Tech & Tools
-- **Data Analysis**: Python (Pandas, NumPy), SQL, Excel
-- **Data Visualization**: Power BI, Matplotlib, Seaborn
-- **Web Development**: HTML, CSS, JavaScript, ReactJs, NextJs, NodeJs, ExpressJs, MonogoDB
+---
 
-### 📈 Currently Learning
-- Advanced SQL for complex data queries
-- Machine learning foundations for predictive analytics
-- Data storytelling for impactful presentations
+## 🔥 Anime Fuels My Code
+When I’m not solving bugs, I’m:
+- Watching anime battles with popcorn 🍿
+- Drawing UI inspiration from anime aesthetics ✨
+- Arguing why Gojo Satoru is the strongest 💥
 
-### 👨‍💻 Profile
-[HackerRank](https://www.hackerrank.com/profile/priyanshup891) | [LeetCode](https://leetcode.com/u/mononoke891/)
-### 💬 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/priyanshupatil/) | [GitHub](https://github.com/codemononoke) | [Email](mailto:priyanshup891@gmail.com)
+---
 
+## 📈 GitHub Stats
+<img src="https://streak-stats.demolab.com/?user=codemononoke&show_icons=true&theme=transparent" width="47%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api?username=codemononoke&show_icons=true&theme=transparent"  width="45%" >
 
+---
+
+## 📫 Let's Connect
+- 🔗 [Portfolio](https://your-portfolio-link.com)
+- 📷 [Instagram](https://instagram.com/codemononoke) (UI/UX + Anime)
+- 💼 [LinkedIn](https://linkedin.com/in/priyanshupatil)
+
+---
+
+_“The world’s not perfect. But it’s there for us, trying the best it can.” — Roy Mustang (Fullmetal Alchemist: Brotherhood)_
+
+---
