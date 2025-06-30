@@ -10,9 +10,11 @@
 
 ## 🛠 Tech Stack
 - **Languages:** Java, JavaScript, TypeScript, HTML5, CSS3
-- **Frontend:** ReactJS, NextJS, TailwindCSS, Styled-Components, Material-UI, Framer Motion
-- **Backend:** NodeJS, ExpressJS, REST API, GraphQL, MongoDB, PostgreSQL
+- **Frontend:** ReactJS, NextJS, TailwindCSS, Styled-Components, Material-UI
+- **Backend:** NodeJS, ExpressJS, REST API, MongoDB, MySQL
 - **Tools:** Git, GitHub, Postman, Docker, Jest, VS Code, Figma
+<img src="https://skillicons.dev/icons?i=java,js,html,css,vscode,visualstudio,tailwind,react,postman,nodejs,mongodb,git,figma,express,docker" alt="My Skills" width="100%" />
+
 
 ---
 
@@ -27,13 +29,6 @@ When I’m not solving bugs, I’m:
 ## 📈 GitHub Stats
 <img src="https://streak-stats.demolab.com/?user=codemononoke&show_icons=true&theme=transparent" width="47%" align="right" >
 <img src="https://github-readme-stats.vercel.app/api?username=codemononoke&show_icons=true&theme=transparent"  width="45%" >
-
----
-
-## 📫 Let's Connect
-- 🔗 [Portfolio](https://your-portfolio-link.com)
-- 📷 [Instagram](https://instagram.com/codemononoke) (UI/UX + Anime)
-- 💼 [LinkedIn](https://linkedin.com/in/priyanshupatil)
 
 ---
 
