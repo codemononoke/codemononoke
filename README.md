@@ -27,8 +27,7 @@ When I’m not solving bugs, I’m:
 ---
 
 ## 📈 GitHub Stats
-<img src="https://streak-stats.demolab.com/?user=codemononoke&show_icons=true&theme=transparent" width="47%" align="right" >
-<img src="https://github-readme-stats.vercel.app/api?username=codemononoke&show_icons=true&theme=transparent"  width="45%" >
+<img src="https://github-readme-stats.vercel.app/api?username=codemononoke&show_icons=true&theme=transparent">
 
 ---
 
